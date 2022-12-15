@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "În 1597 Sultanul Mehmet al III-lea trimite steag de domnie lui Mihai Viteazul, recunoscându-l ca domn în Ţara Românească."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670791465.json",
+		"name": "monolog4"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bună, Maria!"
+		},
+		{
+			"character": "character-1670659697.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Matei, ce faci? Ai terminat de învățat la istorie? \nȘtii că ai despre Mihai Viteazul, nu?"
+		},
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nu vreau să mai învăț, e week-end! \nNu o să stau să învăț lecția în week-end. Vreau să ies afara!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670090806.json",
+		"name": "inceputul"
+	}
+}

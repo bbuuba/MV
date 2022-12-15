@@ -1,0 +1,21 @@
+{
+	"color": "#ff8d221c",
+	"description": "Asta este caracterul principal",
+	"display_name": "Matei",
+	"display_name_bool": true,
+	"id": "character-1670082534.json",
+	"mirror_portraits": true,
+	"name": "Matei",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 41,
+	"offset_y": 65,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Textures/matei.png"
+		}
+	],
+	"scale": 50,
+	"theme": "theme-1670093270.cfg"
+}

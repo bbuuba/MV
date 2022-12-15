@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Trebuie să am grijă la țepi și la soldații armatei lui Andrei Bathory și a lui Ieremia Movilă.\nÎi voi înfrânge, și mă voi declara domnitor ale celor 3 principate, și așa voi unii Transilvania Moldova și Țara Românească.\nSper ca după să pot să mă întorc acasă."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670791121.json",
+		"name": "monolog1"
+	}
+}

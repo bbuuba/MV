@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O alte povestioara interesantă este despre un grup de săteni ale căror picioare au fost tăiate de către turci.\nEi au organizat un plan, în care aceștia îi prindeau pe otomani pe un pod instabil și îi omorau cu săgețile.\n\n\" La asta nu s-a gândit turcul: să ne taie mâinile, ca să nu-i săgetam..\" - Vasile Filip în cartea lui despre Mihai Viteazul"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670873874.json",
+		"name": "biblioteca3"
+	}
+}

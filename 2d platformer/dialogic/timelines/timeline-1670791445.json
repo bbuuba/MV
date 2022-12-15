@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "13 AUGUST 1595: Una dintre cele mai semnificative bătălii a fost cea de la Călugăreni.\n În ciuda diferențelor imense în numere, victoria lui Mihai Viteazul este una de glorie strategică militară.\n  \"Organizandu-și oamenii în formă de unghi, cu vârful către inamic...armata invadatoare...obligați  să înainteze în coloană, lăbărțând u-se pe o distanța mult prea lungă.\""
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670791445.json",
+		"name": "monolog3"
+	}
+}

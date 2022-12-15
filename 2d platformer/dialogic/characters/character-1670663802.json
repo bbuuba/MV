@@ -1,0 +1,21 @@
+{
+	"color": "#ff018400",
+	"description": "Primul gardian",
+	"display_name": "Baba Novac",
+	"display_name_bool": true,
+	"id": "character-1670663802.json",
+	"mirror_portraits": false,
+	"name": "Caracterintroductiv1",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": "theme-1670093270.cfg"
+}

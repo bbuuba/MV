@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ce?\nUnde sunt și ce s-a întâmplat???"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1671049669.json",
+		"name": "confuzie"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Îmi aduc aminte că era aici o carte despre cum un grup de copiii au păcălit una dintre trupele otomane.\nPlanul lor ingenios a fost să le puna mac în macare pentru a-i adormi și după\ncopiii s-au grăbit să le fure armele și să fuga"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670873854.json",
+		"name": "biblioteca2"
+	}
+}

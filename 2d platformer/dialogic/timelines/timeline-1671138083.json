@@ -1,0 +1,21 @@
+{
+	"events": [
+		{
+			"character": "character-1671138175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mihai Vodă?\nCum ai trecut de armata mea de secui?"
+		},
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hahahaha!\nArmata ta e înfrântă Bathory,\nN-ar fi trebuit să te pui cu mine."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1671138083.json",
+		"name": "andrei bathory"
+	}
+}

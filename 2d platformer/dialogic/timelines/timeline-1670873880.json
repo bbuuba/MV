@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Păcat că nu prea sunt și audiobook-uri despre Mihai Viteazul."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670873880.json",
+		"name": "biblioteca4"
+	}
+}

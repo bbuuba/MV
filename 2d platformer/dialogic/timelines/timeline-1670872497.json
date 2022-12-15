@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lecția pe care am avut-o data trecută a fost despre Mihai Viteazul.\nOk deci.. El a urcat pe tron în 1593 ,\nA avut niște bătălii acolo la Călugăreni.. a unit România pentru prima dată\nCe neinteresant !"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670872497.json",
+		"name": "birou"
+	}
+}

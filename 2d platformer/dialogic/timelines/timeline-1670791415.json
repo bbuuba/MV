@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\t În 1593, Mihai Viteazul a cumpărat tronul de la Otomani cu promisiuni de a le plătii datoriile.\n\tCând a început să își arate nesupunerea față de Poartă, a câștigat nu numai inima națiunii, dar și multe localități cucerite în 1595;\n\tTârgovişte, Bucureşti şi Giurgiu."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670791415.json",
+		"name": "monolog2"
+	}
+}

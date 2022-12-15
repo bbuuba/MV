@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\tUnde su-"
+		},
+		{
+			"character": "character-1670790421.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Se vă alătură și domnia voastră pe front?"
+		},
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670790299.json",
+		"name": "npc01"
+	}
+}

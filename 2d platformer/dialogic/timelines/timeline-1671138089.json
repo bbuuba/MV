@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1671138175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Te rog crută-mă!\nIeremia Movila deja a fugit în Polonia.."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1671138089.json",
+		"name": "andrei bathory2"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "În 1599, toamna, Ieremia Movilă, domnul Moldovei, susţinut de Polonia, şi Andrei Báthory, domn în Transilvania, \nîncearcă să îl înlocuiască pe Mihai Viteazul .\nEl îi învinge pe amândoi și cucerește și Transilvania și Moldova.\n iar la 1 noiembrie intră triumfal în Alba-Iulia și se auto-intitulează domnitor ale celor 3 principate."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670791497.json",
+		"name": "monolog5"
+	}
+}

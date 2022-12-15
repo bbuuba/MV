@@ -1,0 +1,27 @@
+{
+	"events": [
+		{
+			"character": "character-1670790583.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ce faci aici Stăpâne?"
+		},
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cine ești?"
+		},
+		{
+			"character": "character-1670790583.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nu ai uita unul dintre boierii tai loiali."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670790593.json",
+		"name": "npc02"
+	}
+}

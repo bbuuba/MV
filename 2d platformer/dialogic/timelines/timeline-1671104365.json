@@ -1,0 +1,25 @@
+{
+	"events": [
+		{
+			"character": "character-1671104381.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mihai Vodă...\nCum ai reușit să treci peste oastele noastre?"
+		},
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A fost puțin cam ușor, nu crezi?\nNu îmi pare rău Ieremia Movilă, ai încercat să îmi iei tronul și uite ce a-ți pățit că v-ați pus cu mine!"
+		},
+		{
+			"emit_signal": "signal_ended",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1671104365.json",
+		"name": "Ieremia Movila"
+	}
+}

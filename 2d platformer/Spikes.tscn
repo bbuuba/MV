@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Animal House Tileset Pack/pixil-frame-0.png" type="Texture" id=1]
+[ext_resource path="res://Hitbox.tscn" type="PackedScene" id=2]
+
+[node name="Spikes" type="Node2D"]
+position = Vector2( 0, -9 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 0, -7 )
+z_index = 4
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 36, 36 )
+
+[node name="Hitbox" parent="." instance=ExtResource( 2 )]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Hitbox"]
+polygon = PoolVector2Array( -14, 9, -14, 5, -13, 0, -11, -12, -9, -22, -4, 2, -2, -6, -1, -17, 3, 3, 6, -8, 8, -14, 8, -1, 10, -1, 13, -17, 17, 9 )

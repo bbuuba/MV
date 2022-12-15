@@ -1,0 +1,21 @@
+{
+	"color": "#ff0b9c92",
+	"description": "",
+	"display_name": "Andrei Bathory",
+	"display_name_bool": true,
+	"id": "character-1671138175.json",
+	"mirror_portraits": false,
+	"name": "Andrei Bathory",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": "theme-1670093270.cfg"
+}

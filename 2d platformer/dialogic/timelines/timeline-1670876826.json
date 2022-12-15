@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1670082534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Trebuie să mă declar domn ale celor 3 principate în scris.\nActele sunt pe masă."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1670876826.json",
+		"name": "actele"
+	}
+}

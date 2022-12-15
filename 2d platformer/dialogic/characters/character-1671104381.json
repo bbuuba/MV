@@ -1,0 +1,21 @@
+{
+	"color": "#ff690757",
+	"description": "",
+	"display_name": "Ieremia Movilă",
+	"display_name_bool": true,
+	"id": "character-1671104381.json",
+	"mirror_portraits": false,
+	"name": "Ieremia Movila",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
